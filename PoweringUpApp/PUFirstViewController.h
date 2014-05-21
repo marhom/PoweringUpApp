@@ -22,4 +22,5 @@
 
 @property (strong, nonatomic) IBOutlet UILabel *bmrView;
 - (IBAction)doCalculation:(id)sender;
+- (IBAction)textFieldReturn:(id)sender;
 @end
